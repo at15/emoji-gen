@@ -2,6 +2,8 @@
     "name": "emoji-gen",
     "version": "0.0.1",
     "dependencies":{
-        "node-sprite-generator":"latest"
+        "node-sprite-generator":"latest",
+        "gm":"latest",
+        "glob":"latest"
     }
 }
