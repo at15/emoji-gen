@@ -21,7 +21,8 @@ fs.writeFileSync(first_img_path, first_img_content);
 // 只能用eval了...
 var to_eval = 'gm(first_img_path).append(';
 var array_str = 'var emoji_list = [\'' + first_name + '\',\n';
-var css_str = '.' + first_name + '{background-position:0 0;}\n';
+var css_str = '.emoji {background-image: url("emoji.png"); width: 30px; height: 30px; display: -moz-inline-stack; display: inline-block; vertical-align: top; zoom: 1; *display: inline; }\n' +
+    '.' + first_name + '{background-position:0 0;}\n';
 for (var i = 1; i < files.length; i++) {
     //gm(first_img_path).append(files[i]);
     to_eval += "'" + files[i] + "',";
