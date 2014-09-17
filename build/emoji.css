@@ -1,57 +1,58 @@
-.angry { background-image: url('./emoji.png'); background-position: 0 0; width: 64px; height: 64px; }
-.anguished { background-image: url('./emoji.png'); background-position: 0 -64px; width: 64px; height: 64px; }
-.astonished { background-image: url('./emoji.png'); background-position: 0 -128px; width: 64px; height: 64px; }
-.blush { background-image: url('./emoji.png'); background-position: 0 -192px; width: 64px; height: 64px; }
-.bowtie { background-image: url('./emoji.png'); background-position: 0 -256px; width: 64px; height: 64px; }
-.cold_sweat { background-image: url('./emoji.png'); background-position: 0 -320px; width: 64px; height: 64px; }
-.confounded { background-image: url('./emoji.png'); background-position: 0 -384px; width: 64px; height: 64px; }
-.confused { background-image: url('./emoji.png'); background-position: 0 -448px; width: 64px; height: 64px; }
-.cry { background-image: url('./emoji.png'); background-position: 0 -512px; width: 64px; height: 64px; }
-.disappointed { background-image: url('./emoji.png'); background-position: 0 -576px; width: 64px; height: 64px; }
-.disappointed_relieved { background-image: url('./emoji.png'); background-position: 0 -640px; width: 64px; height: 64px; }
-.dizzy_face { background-image: url('./emoji.png'); background-position: 0 -704px; width: 64px; height: 64px; }
-.expressionless { background-image: url('./emoji.png'); background-position: 0 -768px; width: 64px; height: 64px; }
-.fearful { background-image: url('./emoji.png'); background-position: 0 -832px; width: 64px; height: 64px; }
-.flushed { background-image: url('./emoji.png'); background-position: 0 -896px; width: 64px; height: 64px; }
-.frowning { background-image: url('./emoji.png'); background-position: 0 -960px; width: 64px; height: 64px; }
-.grimacing { background-image: url('./emoji.png'); background-position: 0 -1024px; width: 64px; height: 64px; }
-.grin { background-image: url('./emoji.png'); background-position: 0 -1088px; width: 64px; height: 64px; }
-.grinning { background-image: url('./emoji.png'); background-position: 0 -1152px; width: 64px; height: 64px; }
-.heart_eyes { background-image: url('./emoji.png'); background-position: 0 -1216px; width: 64px; height: 64px; }
-.hushed { background-image: url('./emoji.png'); background-position: 0 -1280px; width: 64px; height: 64px; }
-.innocent { background-image: url('./emoji.png'); background-position: 0 -1344px; width: 64px; height: 64px; }
-.joy { background-image: url('./emoji.png'); background-position: 0 -1408px; width: 64px; height: 64px; }
-.kissing_closed_eyes { background-image: url('./emoji.png'); background-position: 0 -1472px; width: 64px; height: 64px; }
-.kissing_face { background-image: url('./emoji.png'); background-position: 0 -1536px; width: 64px; height: 64px; }
-.kissing_heart { background-image: url('./emoji.png'); background-position: 0 -1600px; width: 64px; height: 64px; }
-.kissing_smiling_eyes { background-image: url('./emoji.png'); background-position: 0 -1664px; width: 64px; height: 64px; }
-.laughing { background-image: url('./emoji.png'); background-position: 0 -1728px; width: 64px; height: 64px; }
-.mask { background-image: url('./emoji.png'); background-position: 0 -1792px; width: 64px; height: 64px; }
-.neutral_face { background-image: url('./emoji.png'); background-position: 0 -1856px; width: 64px; height: 64px; }
-.no_mouth { background-image: url('./emoji.png'); background-position: 0 -1920px; width: 64px; height: 64px; }
-.open_mouth { background-image: url('./emoji.png'); background-position: 0 -1984px; width: 64px; height: 64px; }
-.pensive { background-image: url('./emoji.png'); background-position: 0 -2048px; width: 64px; height: 64px; }
-.persevere { background-image: url('./emoji.png'); background-position: 0 -2112px; width: 64px; height: 64px; }
-.relaxed { background-image: url('./emoji.png'); background-position: 0 -2176px; width: 64px; height: 64px; }
-.relieved { background-image: url('./emoji.png'); background-position: 0 -2240px; width: 64px; height: 64px; }
-.satisfied { background-image: url('./emoji.png'); background-position: 0 -2304px; width: 64px; height: 64px; }
-.scream { background-image: url('./emoji.png'); background-position: 0 -2368px; width: 64px; height: 64px; }
-.sleeping { background-image: url('./emoji.png'); background-position: 0 -2432px; width: 64px; height: 64px; }
-.sleepy { background-image: url('./emoji.png'); background-position: 0 -2496px; width: 64px; height: 64px; }
-.smile { background-image: url('./emoji.png'); background-position: 0 -2560px; width: 64px; height: 64px; }
-.smiley { background-image: url('./emoji.png'); background-position: 0 -2624px; width: 64px; height: 64px; }
-.smirk { background-image: url('./emoji.png'); background-position: 0 -2688px; width: 64px; height: 64px; }
-.sob { background-image: url('./emoji.png'); background-position: 0 -2752px; width: 64px; height: 64px; }
-.stuck_out_tongue { background-image: url('./emoji.png'); background-position: 0 -2816px; width: 64px; height: 64px; }
-.stuck_out_tongue_closed_eyes { background-image: url('./emoji.png'); background-position: 0 -2880px; width: 64px; height: 64px; }
-.stuck_out_tongue_winking_eye { background-image: url('./emoji.png'); background-position: 0 -2944px; width: 64px; height: 64px; }
-.sunglasses { background-image: url('./emoji.png'); background-position: 0 -3008px; width: 64px; height: 64px; }
-.sweat { background-image: url('./emoji.png'); background-position: 0 -3072px; width: 64px; height: 64px; }
-.sweat_smile { background-image: url('./emoji.png'); background-position: 0 -3136px; width: 64px; height: 64px; }
-.tired_face { background-image: url('./emoji.png'); background-position: 0 -3200px; width: 64px; height: 64px; }
-.triumph { background-image: url('./emoji.png'); background-position: 0 -3264px; width: 64px; height: 64px; }
-.unamused { background-image: url('./emoji.png'); background-position: 0 -3328px; width: 64px; height: 64px; }
-.weary { background-image: url('./emoji.png'); background-position: 0 -3392px; width: 64px; height: 64px; }
-.wink { background-image: url('./emoji.png'); background-position: 0 -3456px; width: 64px; height: 64px; }
-.worried { background-image: url('./emoji.png'); background-position: 0 -3520px; width: 64px; height: 64px; }
-.yum { background-image: url('./emoji.png'); background-position: 0 -3584px; width: 64px; height: 64px; }
+.emoji{background-image: url('./emoji.png');width: 30px;height: 30px;}
+.angry{background-position:0 0;}
+.anguished{background-position: 30px 0px;}
+.astonished{background-position: 60px 0px;}
+.blush{background-position: 90px 0px;}
+.bowtie{background-position: 120px 0px;}
+.cold_sweat{background-position: 150px 0px;}
+.confounded{background-position: 180px 0px;}
+.confused{background-position: 210px 0px;}
+.cry{background-position: 240px 0px;}
+.disappointed{background-position: 270px 0px;}
+.disappointed_relieved{background-position: 300px 0px;}
+.dizzy_face{background-position: 330px 0px;}
+.expressionless{background-position: 360px 0px;}
+.fearful{background-position: 390px 0px;}
+.flushed{background-position: 420px 0px;}
+.frowning{background-position: 450px 0px;}
+.grimacing{background-position: 480px 0px;}
+.grin{background-position: 510px 0px;}
+.grinning{background-position: 540px 0px;}
+.heart_eyes{background-position: 570px 0px;}
+.hushed{background-position: 600px 0px;}
+.innocent{background-position: 630px 0px;}
+.joy{background-position: 660px 0px;}
+.kissing_closed_eyes{background-position: 690px 0px;}
+.kissing_face{background-position: 720px 0px;}
+.kissing_heart{background-position: 750px 0px;}
+.kissing_smiling_eyes{background-position: 780px 0px;}
+.laughing{background-position: 810px 0px;}
+.mask{background-position: 840px 0px;}
+.neutral_face{background-position: 870px 0px;}
+.no_mouth{background-position: 900px 0px;}
+.open_mouth{background-position: 930px 0px;}
+.pensive{background-position: 960px 0px;}
+.persevere{background-position: 990px 0px;}
+.relaxed{background-position: 1020px 0px;}
+.relieved{background-position: 1050px 0px;}
+.satisfied{background-position: 1080px 0px;}
+.scream{background-position: 1110px 0px;}
+.sleeping{background-position: 1140px 0px;}
+.sleepy{background-position: 1170px 0px;}
+.smile{background-position: 1200px 0px;}
+.smiley{background-position: 1230px 0px;}
+.smirk{background-position: 1260px 0px;}
+.sob{background-position: 1290px 0px;}
+.stuck_out_tongue{background-position: 1320px 0px;}
+.stuck_out_tongue_closed_eyes{background-position: 1350px 0px;}
+.stuck_out_tongue_winking_eye{background-position: 1380px 0px;}
+.sunglasses{background-position: 1410px 0px;}
+.sweat{background-position: 1440px 0px;}
+.sweat_smile{background-position: 1470px 0px;}
+.tired_face{background-position: 1500px 0px;}
+.triumph{background-position: 1530px 0px;}
+.unamused{background-position: 1560px 0px;}
+.weary{background-position: 1590px 0px;}
+.wink{background-position: 1620px 0px;}
+.worried{background-position: 1650px 0px;}
+.yum{background-position: 1680px 0px;}
